@@ -1,0 +1,20 @@
+zaker_ai/
+├── .github/
+│   └── workflows/
+│       └── main.yml
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── splash_screen.dart
+│   │   ├── onboarding_screen.dart
+│   │   ├── login_screen.dart
+│   │   ├── home_screen.dart
+│   │   ├── ask_question_screen.dart
+│   │   ├── answer_screen.dart
+│   │   ├── history_screen.dart
+│   │   ├── profile_screen.dart
+│   │   └── premium_screen.dart
+│   └── widgets/
+│       └── custom_button.dart
+├── pubspec.yaml
+└── README.md

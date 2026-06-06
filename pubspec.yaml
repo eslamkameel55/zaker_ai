@@ -1,0 +1,25 @@
+name: zaker_ai
+description: "تطبيق ذاكر بذكاء - مساعد الطالب الذكي"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  image_picker: ^1.1.2
+  font_awesome_flutter: ^10.7.0
+  animate_do: ^3.3.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
